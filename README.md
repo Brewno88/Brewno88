@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Brewno88"><img src="https://api.daily.dev/devcards/7db0c44ce87947a29d35cd4fe4414288.png?r=1zy" width="400" alt="Vincenzo Conte's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 <!--
 **Brewno88/Brewno88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
